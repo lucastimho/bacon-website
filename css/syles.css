@@ -1,12 +1,13 @@
+/* ID is for a singluar element. CLASS are for multiple elements */
 /************* TAG SELECTORS **************/
 h1 {
   color: red;
   font-size: 200px;
 }
 
-/* img {
+img {
   background-color: red;
-} */
+}
 
 /**************** CLASS SELECTORS **********/
 
@@ -15,4 +16,10 @@ h1 {
 }
 .broccoli {
   background-color: red;
+}
+
+/**************** ID SELECTORS **********/
+
+#heading {
+  color: blue;
 }
